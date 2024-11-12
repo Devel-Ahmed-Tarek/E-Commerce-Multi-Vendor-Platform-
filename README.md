@@ -1,5 +1,7 @@
 # E-Commerce Multi-Vendor Platform
 
+**[Demo](http:/store.kompassumzug.ch)** 
+
 This is a fully-functional **multi-vendor e-commerce platform** built using **Laravel 11** and **Blade**. It allows multiple vendors to register, list products, manage orders, and interact with customers in a seamless, secure, and scalable environment. The platform includes features such as vendor-specific dashboards, integrated payment gateways, product search and filtering, customer reviews, and a responsive UI.
 
 ## Features
